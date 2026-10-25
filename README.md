@@ -219,4 +219,4 @@ AxCrypt is available as a **full free version** with all features and updates in
 Take action now and **download AxCrypt FREE** to ensure your files are secure!
 
 ---
-**Last updated:** 2026-10-25 21:22:31 UTC
+**Last updated:** 2026-10-25 23:44:39 UTC
